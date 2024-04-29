@@ -3,3 +3,9 @@ body{
 background-color:;
 align-items: flex-start;
 }
+
+
+.hhhhhhhhhhh{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
